@@ -13,10 +13,10 @@ requires pexpect, `pip install pexpect`
 
 usage:
 
-  python test.py python
+    python test.py python
 
-  python test.py irb
+    python test.py irb
 
-  python test.py ghci
+    python test.py ghci
 
-  etc.
+    etc.
