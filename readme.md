@@ -19,4 +19,6 @@ usage:
 
     python test.py ghci
 
-    etc.
+etc.
+
+![](http://ballingt.com/assets/separate-process-undo.gif)
